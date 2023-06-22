@@ -17,7 +17,7 @@ Third, it goes through a SmallerSet containing sample images of users with and w
 # Model Structure
 
 I used a Convolutional Neural Network to process the images. Essentially, I used convolutional and max pooling layers until the result could be processed by a regular neural network. From there, I flattened it so it can be processed by the dense layers. A few dropout layers were added to this portion to minimize overfitting
-See the attached folder CNN_Structure.jpg for a visual, specific look into how it is constructed.
+See the attached folder CNN_Structure.png for a visual, specific look into how it is constructed.
 
 # Results
 
